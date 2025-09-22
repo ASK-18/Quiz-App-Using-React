@@ -30,15 +30,22 @@ The app is **responsive, interactive, and easy to customize**.
 - Easy to add new quizzes and questions  
 
 ---
-
-## Demo
-Check out the **live demo**: [Live Link](https://your-live-link.com)  
+ 
 
 ### Screenshots
-![1.Home Page](Screenshots/Home_Page.png)  
-![2.Correct Answer](Screenshots/Correct_Answer.png)  
-![3.Wrong Answer](Screenshots/Wrong_Answer.png)  
-![4.Results](Screenshots/Results.png)  
+
+**Home Page**  
+![Home Page](Screenshots/Home_Page.png)  
+
+**Correct Answer**  
+![Correct Answer](Screenshots/Correct_Answer.png)  
+
+**Wrong Answer**  
+![Wrong Answer](Screenshots/Wrong_Answer.png)  
+
+**Results Page**  
+![Results](Screenshots/Results.png)  
+
 
 ---
 
