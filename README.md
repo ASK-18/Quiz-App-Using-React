@@ -1,7 +1,5 @@
 # Quiz App Using React
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![React](https://img.shields.io/badge/React-17.0.2-blue)](https://reactjs.org/)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -12,7 +10,7 @@
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Future Enhancements](#future-enhancements)
-- [License](#license)
+
 
 ---
 
@@ -74,10 +72,9 @@ npm install
 npm start
 ```
 ## Usage
-* Select a quiz  
 * Answer the questions  
 * View your score at the end  
-* Optionally, add new quizzes in the `data` or `questions` folder  
+* Reset the Quiz to Play Again
 
 ---
 
@@ -98,7 +95,4 @@ Contributions are welcome!
 * Store results in a **database or backend**  
 * Add **categories and difficulty levels**  
 
----
 
-## License
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
