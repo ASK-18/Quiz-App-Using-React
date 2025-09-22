@@ -35,10 +35,10 @@ The app is **responsive, interactive, and easy to customize**.
 Check out the **live demo**: [Live Link](https://your-live-link.com)  
 
 ### Screenshots
-![1.Home Page](C:\Users\saiki\Downloads\full_stack_practice\quiz_app\Screenshots\Home_Page.png)  
-![2.Correct Answer](C:\Users\saiki\Downloads\full_stack_practice\quiz_app\Screenshots\Correct_Answer.png)  
-![3.Wrong Answer](C:\Users\saiki\Downloads\full_stack_practice\quiz_app\Screenshots\Wrong_Answer.png)  
-![4.Results](C:\Users\saiki\Downloads\full_stack_practice\quiz_app\Screenshots\Results.png)  
+![1.Home Page](Screenshots/Home_Page.png)  
+![2.Correct Answer](Screenshots/Correct_Answer.png)  
+![3.Wrong Answer](Screenshots/Wrong_Answer.png)  
+![4.Results](Screenshots/Results.png)  
 
 ---
 
