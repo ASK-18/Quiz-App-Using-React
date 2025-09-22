@@ -6,7 +6,7 @@
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
-- [Demo](#demo)
+- [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -52,7 +52,7 @@ The app is **responsive, interactive, and easy to customize**.
 ## Technologies Used
 - **React.js** – Frontend framework  
 - **JavaScript (ES6)** – Logic  
-- **CSS / Tailwind / Bootstrap** – Styling  
+- **CSS** – Styling  
 - **Git & GitHub** – Version control  
 
 ---
@@ -63,3 +63,42 @@ The app is **responsive, interactive, and easy to customize**.
 ```bash
 git clone https://github.com/ASK-18/Quiz-App-Using-React.git
 cd Quiz-App-Using-React
+```
+2.Install dependencies:
+```bash
+npm install
+```
+
+3.Start the application:
+```bash
+npm start
+```
+## Usage
+* Select a quiz  
+* Answer the questions  
+* View your score at the end  
+* Optionally, add new quizzes in the `data` or `questions` folder  
+
+---
+
+## Contributing
+Contributions are welcome!  
+
+1. Fork the repository  
+2. Create a new branch: `git checkout -b feature-name`  
+3. Commit changes: `git commit -m "Add feature"`  
+4. Push to branch: `git push origin feature-name`  
+5. Open a Pull Request  
+
+---
+
+## Future Enhancements
+* Add **timers** for quizzes  
+* Add **user authentication and profiles**  
+* Store results in a **database or backend**  
+* Add **categories and difficulty levels**  
+
+---
+
+## License
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
