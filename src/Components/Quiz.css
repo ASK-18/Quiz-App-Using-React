@@ -1,0 +1,60 @@
+.Container {
+  width: 600px;       /* smaller width for zoomed-out look */
+  max-width: 90%;     /* responsive */
+  /* remove max-height and overflow-y */
+  background: white;
+  color: #262626;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 20px 40px; /* reduce vertical padding to shrink height */
+  border-radius: 10px;
+}
+
+
+/* Headings */
+.Container h2 {
+  font-size: 24px;        /* smaller heading */
+}
+
+/* Options */
+.Container ul li {
+  display: flex;
+  align-items: center;
+  height: 60px;           /* reduced height */
+  padding-left: 15px;
+  border: 1px solid #686868;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  font-size: 18px;        /* smaller font */
+  cursor: pointer;
+}
+
+/* Buttons */
+.Container button {
+  margin: auto;
+  width: 200px;
+  height: 55px;           /* reduced height */
+  background: #553f9a;
+  color: #fff;
+  font-size: 22px;        /* smaller font */
+  font-weight: 500;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+/* Index */
+.Container .index {
+  margin: auto;
+  font-size: 16px;
+}
+
+/* Correct/Wrong states */
+.Container .correct {
+  background: #dffff2;
+  border-color: #00d397;
+}
+.Container .wrong {
+  background: #ffebeb;
+  border-color: #ff4a4a;
+}
