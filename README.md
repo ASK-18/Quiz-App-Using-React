@@ -35,7 +35,7 @@ The app is **responsive, interactive, and easy to customize**.
 Check out the **live demo**: [Live Link](https://your-live-link.com)  
 
 ### Screenshots
-![Quiz App Screenshot](link-to-screenshot.png)  
+![Quiz App Screenshot](C:\Users\saiki\Downloads\full_stack_practice\quiz_app\Screenshots\Home_Page.png)  
 ![Another Screenshot](link-to-screenshot.png)
 
 ---
